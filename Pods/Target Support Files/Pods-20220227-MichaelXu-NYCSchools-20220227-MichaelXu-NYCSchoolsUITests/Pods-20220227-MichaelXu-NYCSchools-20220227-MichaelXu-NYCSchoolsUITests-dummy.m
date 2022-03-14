@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_20220227_MichaelXu_NYCSchools_20220227_MichaelXu_NYCSchoolsUITests : NSObject
+@end
+@implementation PodsDummy_Pods_20220227_MichaelXu_NYCSchools_20220227_MichaelXu_NYCSchoolsUITests
+@end

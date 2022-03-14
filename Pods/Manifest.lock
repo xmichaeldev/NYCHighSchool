@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.4.1)
+  - JGProgressHUD (2.2)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - ObjectMapper (3.5.3)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - Moya (~> 14.0)
+  - ObjectMapper (~> 3.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JGProgressHUD
+    - Moya
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+
+PODFILE CHECKSUM: 78f8c73ee82bb39b963de6a20125a2241000c9fd
+
+COCOAPODS: 1.11.2

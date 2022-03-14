@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-20220227-MichaelXu-NYCSchools/Pods-20220227-MichaelXu-NYCSchools-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/JGProgressHUD/JGProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework

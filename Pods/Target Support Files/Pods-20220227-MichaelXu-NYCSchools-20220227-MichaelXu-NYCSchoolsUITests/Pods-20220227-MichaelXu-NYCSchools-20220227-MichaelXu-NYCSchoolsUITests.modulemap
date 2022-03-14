@@ -1,0 +1,6 @@
+framework module Pods_20220227_MichaelXu_NYCSchools_20220227_MichaelXu_NYCSchoolsUITests {
+  umbrella header "Pods-20220227-MichaelXu-NYCSchools-20220227-MichaelXu-NYCSchoolsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
